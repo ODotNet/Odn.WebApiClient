@@ -8,7 +8,7 @@
     <owners>ODotNet Team</owners>
     <description>提供.NET下各平台访问Web API的基础组建库</description>
     <projectUrl>http://www.odotnet.com/WebApiClient</projectUrl>
-    <iconUrl>http://www.odotnet.com/pic/new_logo.png</iconUrl>
+    <iconUrl>https://secure.gravatar.com/avatar/e9e4ebb221ac2210f064f22103a3b73b</iconUrl>
     <tags>webclient</tags>
   </metadata>
 </package>
